@@ -1,4 +1,4 @@
 first_level:
   second_level:
     third_level:
-      data_migrator: account
+      my_key: my_value
