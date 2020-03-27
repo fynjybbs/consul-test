@@ -1,7 +1,9 @@
-[
-	{
-		"key": "config/affiliate-linkout-api/",
-		"flags": 0,
-		"value": "234"
-	}
-]
+{
+  'first_level' : {
+    'second_level' : {
+      'third_level' : {
+        'you get the picture' : 'right?'
+      }
+    }
+  }
+}
