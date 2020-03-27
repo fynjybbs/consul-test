@@ -1,4 +1,4 @@
 first_level:
   second_level:
     third_level:
-      data-migrator: account.filter.enabled
+      data_migrator: account
