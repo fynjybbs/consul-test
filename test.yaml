@@ -3,3 +3,7 @@ first_level:
     third_level:
       my_key: my_value
       second_key: wqdqwd
+  new_level:
+    reereer:
+      my_key: my_value
+      second_key: wqdqwd
