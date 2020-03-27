@@ -1,1 +1,7 @@
-configgg: "123421"
+[
+	{
+		"key": "config/affiliate-linkout-api/",
+		"flags": 0,
+		"value": "234"
+	}
+]
