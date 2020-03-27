@@ -2,3 +2,5 @@ first_level:
   second_level:
     third_level:
       my_key: my_value
+  data-migrator:
+    account.filter.enabled: true
